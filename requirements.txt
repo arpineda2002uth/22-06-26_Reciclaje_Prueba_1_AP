@@ -1,0 +1,9 @@
+streamlit
+
+tensorflow-cpu
+
+numpy
+
+pillow
+
+h5py
