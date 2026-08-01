@@ -1,6 +1,6 @@
 streamlit
 
-tensorflow-cpu
+tensorflow-cpu==3.12
 
 numpy
 
